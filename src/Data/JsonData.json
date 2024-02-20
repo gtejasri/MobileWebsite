@@ -1,0 +1,42 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"NEW Galaxy S24 ULTRA",
+            "src":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgzN_7A-VOO0NB8wvGXeVoQyaSwwMP3fzy6DWVESpyfLBoWefZK3dknO3B5VTKZZmgp_R3bKTOev-9VTLcDtjwrHVb5-DICrkH1GOFPSkwCv_KwirRoHbneqlYaTSj-Y_5N80hxeU3Zg&usqp=CAc",
+            "price":139999
+        },
+        {
+            "id":2,
+            "name":"HONOR 90",
+            "src":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSH4P_jGkWILHAsABQNZbpJApV2DS3rNm0q3Y0cwao57fNYpY5ixCMTIZxlkXWZAvm42xQAV6Vu7IRwndY8Mjgn51jsDL__iWMH4K9v0yPt7a4OM_EVIhuaPu0a808O6eNmCHTAGtU&usqp=CAc",
+            "price":29700
+        },
+        {
+            "id":3,
+            "name":"Samsung Galaxy S23 ULTRA",
+            "src":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkVwqNW6Yi063sLy_0I5zXTxoZuEuPOBKoOKarDvod4boi6hW7Wng1isY_6QvLdyokrhBQz0CXdgu54Gp_nJOqiit6bsl0mHoFIDKBXhLZPK9yLIUTUnJAEqdNP1Vph2GN9e3CHHB6ScqW&usqp=CAc",
+            "price":119999
+        },
+        {
+            "id":4,
+            "name":"Samsung Galaxy M34",
+            "src":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-2vlZDAcCRWnUxLxuCVXfQ0j-Y7aBRJxKTLm6s-ks_nQwBG6ZpvEgIdBuWxGh1bnkBeCMq0fKcOtwGBH6elftHavyw_lqvi0CMbGy1JkIMCR_bfXJM99L4qhiSIepUcXBGs6EjG3hQcM&usqp=CAc",
+            "price":15999
+        },
+        {
+            "id":5,
+            "name":"Oneplus 11R 5G",
+            "src":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiDzzZksclAmM8E2xKaOYLsHwQBWNrLVP0YKDthfUKnHMy22tlOxZaGLmzwKfBJxU7wfr8tgc-nsrQubb9-CokqWKX1Jdmwa1ZvPWXjS7I-GzSZAYfnlJND2VsJvSTHcNWc13E8_I&usqp=CAc",
+            "price":49999
+        },
+        {
+            "id":6,
+            "name":"Apple iPhone 15 Pro Max",
+            "src":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvWl7E-1Km1f5UuYh4sZ0dIgK6TFHeiu4QRi0XlsWF6gKeV1xfNgflqt9kpD3ulITSQaFGG99bs9y2ZJVJ87KFJHU3IUF8uJAKv3gHxkgy2238kvDaswT-D6S6ASoYmt_AIN-pb9htsg&usqp=CAc",
+            "price":159000
+        }
+
+
+    ]
+}
